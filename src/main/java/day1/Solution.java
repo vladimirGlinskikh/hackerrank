@@ -17,7 +17,7 @@ public class Solution {
 
         System.out.println(i + a);
         System.out.println(d + b);
-        System.out.println(s + " " + st);
+        System.out.println(s + "" + st);
         scan.close();
     }
 }
